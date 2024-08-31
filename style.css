@@ -1,0 +1,96 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.select {
+    background-color: black;
+    color: beige;
+    padding: 20px;
+    text-align: center;
+    height: 50px;
+}
+
+body {
+    .young-serif-regular {
+        font-family: "Young Serif", serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+}
+
+.section-one {
+    display: inline-block;
+    background-color: maroon;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+
+.section-two {
+    display: inline-block;
+    background-color: maroon;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+
+
+}
+
+.section-three {
+    display: inline-block;
+    background-color: maroon;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+
+.section-four {
+    display: inline-block;
+    background-color: maroon;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+
+.section-one__button,
+.section-two__button,
+.section-three__button,
+.section-four__button {
+    margin-left: 100px;
+    background-color: blueviolet;
+    color: black;
+    margin-top: 5px;
+}
+
+.contact-form {
+    background-color: black;
+    color: beige;
+    padding: 10px;
+    margin-left: 10px;
+    padding-left: 500px;
+    height: 200px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+}
+
+
+.contact-form__send {
+    width: 300px;
+    background-color: brown;
+    color: beige;
+    margin-top: 20px;
+    height: 30px;
+
+}
+
+.contact-form__tittle {
+    height: 20px;
+    padding-left: 30px;
+
+
+}
